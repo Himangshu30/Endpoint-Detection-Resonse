@@ -10,4 +10,4 @@ Meanwhile, the client-side code monitors the ARP table to check if there is a po
 3. Server logs relevant data to log files.
 4. Meanwhile, the server monitors if a client has been disconnected and alerts to the screen.
 
-Please add credits if you use any of the code :)
+
